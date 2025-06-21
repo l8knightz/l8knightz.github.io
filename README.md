@@ -57,3 +57,22 @@ This repository holds the source for my personal portfolio and blog, where I sha
 ├── assets/            # CSS, images, icons
 ├── index.md           # Home page content
 └── README.md          # This file
+```
+---
+
+## Contributing & Feedback
+
+I welcome your input! If you spot typos, have design suggestions, or would like to propose new content or project ideas, please:
+1. Open an [issue](https://github.com/l8knightz/l8knightz.github.io/issues).  
+2. Send a pull request with your changes and a brief description.  
+
+I’ll review submissions promptly—thanks in advance for helping make this site better!
+
+---
+
+## Connect with Me
+
+- 💼 **LinkedIn**: [linkedin.com/in/travisbusenbark](https://www.linkedin.com/in/travisbusenbark)  
+- 🐙 **GitHub**: [github.com/l8knightz](https://github.com/l8knightz)  
+- 📧 **Email**: [travisb.devops@gmail.com](mailto:travisb.devops@gmail.com)  
+- [![X](https://img.shields.io/badge/X-@TravisB_Devops-blue?logo=x&logoColor=white)](https://x.com/TravisB_Devops)
