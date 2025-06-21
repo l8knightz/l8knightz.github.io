@@ -27,13 +27,15 @@ Welcome to my personal site repository. Here you’ll find the source for my por
 ---
 
 ## 📂 Repository Structure  
+```
 /
-├── _config.yml # Jekyll config (title, theme, plugins)
-├── _layouts/ # HTML templates (default, post, page)
-├── _includes/ # Reusable partials (header, footer)
-├── _posts/ # Blog posts (YYYY-MM-DD-title.md)
-├── about.md # “About Me” page with hobbies
-├── assets/ # CSS, images, icons
-├── index.md # Home page content
-└── README.md # This file
+├── _config.yml        # Jekyll config (title, theme, plugins)
+├── _layouts/          # HTML templates (default, post, page)
+├── _includes/         # Reusable partials (header, footer)
+├── _posts/            # Blog posts (YYYY-MM-DD-title.md)
+├── about.md           # “About Me” page with hobbies
+├── assets/            # CSS, images, icons
+├── index.md           # Home page content
+└── README.md          # This file
+```
 
