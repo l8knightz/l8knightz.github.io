@@ -5,9 +5,9 @@ title: Home
 
 <!-- Hero Banner -->
 <div style="position: relative; text-align: center; color: white;">
-  <img src="banner.jpg" alt="Cloud & DevOps Banner" style="width:100%; filter: brightness(50%);" />
+  <img src="/assets/images/banner.jpg" alt="Cloud & DevOps Banner" style="width:100%; filter: brightness(50%);" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="profile.jpg" alt="Travis B" style="width:128px; height:128px; border-radius:50%; border:4px solid white;" />
+    <img src="/assets/images/profile.jpg" alt="Travis B" style="width:128px; height:128px; border-radius:50%; border:4px solid white;" />
     <h1 style="margin:0.5rem 0 0.2rem; font-size:2.5rem;">Travis B</h1>
     <p style="font-size:1.2rem;">Cloud-Native Architect & DevOps Engineer</p>
   </div>
