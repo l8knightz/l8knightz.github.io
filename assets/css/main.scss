@@ -1,0 +1,26 @@
+/* assets/css/main.scss */
+
+/* Ensure this file is imported by Jekyll (it picks up any .scss in assets/css/) */
+
+.hero-banner {
+  position: relative;
+  overflow: hidden; /* clip any overflow if desired */
+}
+
+.hero-banner img.banner {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hero-banner img.profile {
+  position: absolute;
+  left: 2rem;          /* adjust horizontal offset */
+  bottom: 1rem;        /* adjust vertical offset inside banner */
+  width: 120px;        /* desired profile size */
+  height: 120px;
+  border: none;        /* remove border */
+  border-radius: 50%;  /* keep it circular */
+  object-fit: cover;   /* ensure it crops nicely */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3); /* optional subtle shadow */
+}
