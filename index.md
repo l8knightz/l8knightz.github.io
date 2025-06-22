@@ -6,7 +6,6 @@ title: Home
 <!-- Hero Banner -->
 <div class="hero-banner">
   <img class="banner" src="/assets/images/banner.jpg" alt="Cloud & DevOps Banner" />
-  <img class="profile" src="/assets/images/profile.jpg" alt="Travis B" />
   <div class="hero-text">
     <h1>Travis B</h1>
     <p>Cloud-Native Architect & DevOps Engineer</p>
